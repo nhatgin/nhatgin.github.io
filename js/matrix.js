@@ -100,7 +100,8 @@ const langs = [
 	"你好，世界",
 	"你好，世界",
 	"你好，世界",
-	"Sawubona Mhlaba"
+	"Sawubona Mhlaba",
+	"Hacker"
 ];
 
 
